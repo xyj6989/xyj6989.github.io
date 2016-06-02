@@ -6,7 +6,7 @@ categories: iOS
 tags: UIKit 
 ---
 
-#UILabel与YYLabel的对比测试
+# UILabel与YYLabel的对比测试
 
 最近一直使用YYKit框架，觉得非常好用，但是在同时使用Autolayout时，发现了YYLabel在自动布局下面的一些缺陷。如下图：
 
