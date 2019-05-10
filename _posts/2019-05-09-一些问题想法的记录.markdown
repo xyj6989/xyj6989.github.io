@@ -3,7 +3,7 @@ layout: post
 title:  "一些问题想法的记录"
 date:   2019-05-09 15:50:00 +0800
 categories: 随想
-tags: 思考、思维
+tags: [思考, 思维]
 ---
 
 * content
