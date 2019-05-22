@@ -18,7 +18,7 @@ tags: UIKit
 
 源代码部分为：
 
-```objective_c
+```objc
     NSString *testString = @"这个是很长的测试字符串这个是很长的测试字符串这个是很长的测试字符串这个是很长的测试字符串\n这个是很长的测试字符串这个是很长的测试字符串这个是很长的测试字符串这个是很长的测试字符串这个是很长的测试字符串";
     
     UILabel *uiLabel = [[UILabel alloc] initWithFrame:CGRectZero];
